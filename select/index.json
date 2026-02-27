@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "パラサイトブルー",
+  "base_artist": "藍月なくる",
+  "createdAt": "2026-02-27T10:08:38.461847Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "パラサイトブルー",
+      "artist": "藍月なくる",
+      "has_synced": false,
+      "path": "select/pl_01_パラサイトブルー_藍月なくる.txt"
+    }
+  ]
+}
